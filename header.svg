@@ -70,9 +70,9 @@
 
     <!-- Nama (ganti USERNAME di 3 tempat) -->
     <g class="rise">
-      <text class="title gA" x="500" y="162" font-size="96" fill="#ffffff" text-anchor="middle">USERNAME</text>
-      <text class="title gB" x="500" y="162" font-size="96" fill="#ff0000" text-anchor="middle">USERNAME</text>
-      <text class="title" x="500" y="162" font-size="96" fill="url(#fire)" text-anchor="middle" filter="url(#glow)">USERNAME</text>
+      <text class="title gA" x="500" y="162" font-size="96" fill="#ffffff" text-anchor="middle">leo</text>
+      <text class="title gB" x="500" y="162" font-size="96" fill="#ff0000" text-anchor="middle">leo</text>
+      <text class="title" x="500" y="162" font-size="96" fill="url(#fire)" text-anchor="middle" filter="url(#glow)">leo</text>
     </g>
 
     <!-- Subjudul -->
