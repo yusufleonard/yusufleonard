@@ -1,27 +1,109 @@
-# 💫 About Me:
-🌌 About Me<br>🔹 Passionate about coding and technology<br>🔹 Aspiring Programmer and Entrepreneur<br>🔹 Experienced in building mobile apps and web applications<br><br>🌱 Currently Learning<br>📚 Advanced Java Development<br>📚 UI/UX Design Principles<br>📚 Website Development and Optimization
+<!-- ================== HEADER ================== -->
+<div align="center">
 
+<img width="100%" src="assets/header.svg" alt="header" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/yysflpp/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@cacicucucaa) 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&duration=2600&pause=900&color=FF3B00&center=true&vCenter=true&width=760&height=60&lines=NO+EXCUSES.+JUST+SHIP.;BUILD+HARD.+DEPLOY+HARDER.;ONE+MAN+%E2%80%A2+FULL+STACK+%E2%80%A2+ZERO+LIMITS;FRONTEND+TO+SERVER+%E2%80%94+I+HANDLE+IT+ALL." alt="typing" />
+</a>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yusufleonard&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yusufleonard&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufleonard&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yusufleonard&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<img width="100%" src="assets/hud.svg" alt="status" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=yusufleonard&limit=5&theme=radical&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yusufleonard&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ⚙️ DOSSIER
+
+<div align="center">
+
+```
+┌──────────────────────────────────────────────────────┐
+│  CODENAME   : USERNAME                               │
+│  ROLE       : Full-Stack Engineer / Game Developer   │
+│  BASE       : Indonesia 🇮🇩                            │
+│  SPECIALTY  : Web • Mobile • DB • UI/UX • 3D • Infra │
+│  STATUS     : ONLINE — grinding 24/7                 │
+│  MOTTO      : Ship it. Fix it. Scale it.             │
+└──────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## 🔥 COMBAT SKILLS
+
+| Divisi | Power Level | |
+|:--|:--|:--|
+| 🌐 **Full-Stack Web** | `██████████` | ![](https://img.shields.io/badge/-ELITE-ff3b00?style=flat-square&labelColor=000000) |
+| 📱 **Mobile Development** | `█████████░` | ![](https://img.shields.io/badge/-ADVANCED-ff6a00?style=flat-square&labelColor=000000) |
+| 🗄️ **Database Engineering** | `█████████░` | ![](https://img.shields.io/badge/-ADVANCED-ff6a00?style=flat-square&labelColor=000000) |
+| 🎨 **UI / UX Design** | `████████░░` | ![](https://img.shields.io/badge/-PRO-ff9500?style=flat-square&labelColor=000000) |
+| 🎮 **3D Game Development** | `████████░░` | ![](https://img.shields.io/badge/-PRO-ff9500?style=flat-square&labelColor=000000) |
+| 🖥️ **Server & DevOps** | `█████████░` | ![](https://img.shields.io/badge/-ADVANCED-ff6a00?style=flat-square&labelColor=000000) |
+
+---
+
+## 🛠️ ARSENAL
+
+<div align="center">
+
+**WEB**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,nodejs,express,nestjs,php,laravel,python,django,go&perline=8" />
+
+**MOBILE**
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,androidstudio,firebase&perline=6" />
+
+**DATABASE**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,supabase,prisma&perline=7" />
+
+**UI / UX**
+
+<img src="https://skillicons.dev/icons?i=figma,ai,ps,xd&perline=4" />
+
+**3D & GAME ENGINE**
+
+<img src="https://skillicons.dev/icons?i=unity,cs,cpp,godot,unreal,blender&perline=6" />
+
+**SERVER & DEVOPS**
+
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,nginx,docker,kubernetes,aws,githubactions,bash,git&perline=9" />
+
+</div>
+
+---
+
+## 📡 CONTACT
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-ff3b00?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000)](https://instagram.com/USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-ff3b00?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/USERNAME)
+[![Email](https://img.shields.io/badge/EMAIL-ff3b00?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:email@kamu.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-ff3b00?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000)](https://websitekamu.com)
+
+<br/>
+
+<img width="100%" src="assets/footer.svg" alt="footer" />
+
+</div>
+
+<!--
+===========================================================
+ SETUP
+===========================================================
+1. Upload README.md + folder "assets" (header.svg, hud.svg,
+   footer.svg) ke repo profil (github.com/USERNAME/USERNAME).
+2. Buka assets/header.svg, ganti teks "USERNAME" (3 tempat)
+   dengan nama/handle lu.
+3. Ganti "USERNAME" di README (Dossier & link Contact).
+4. Edit assets/hud.svg kalau mau ubah role / base / mode.
+5. Sesuaikan level skill di COMBAT SKILLS.
+===========================================================
+-->
